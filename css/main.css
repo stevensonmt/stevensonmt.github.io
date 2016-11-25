@@ -2757,6 +2757,12 @@
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
+		#footer .container-icons {
+			padding: 7em 2.5em 3em 2.5em ;
+			background: transparent;
+			box-shadow: none;
+		}
+
 		#footer footer {
 			bottom: 2em;
 			color: rgba(255, 255, 255, 0.5);
